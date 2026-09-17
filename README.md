@@ -3286,8 +3286,27 @@ helm install boutique oci://ghcr.io/laxmikantagiri/onlineboutique --version 0.10
 ```
 </details>
 
+## Project Status
+
+This repository is a learning and customization fork based on an
+open-source GitOps microservices implementation.
+
+I am studying and extending the project to understand:
+
+- Docker
+- Kubernetes
+- GitHub Actions
+- Argo CD
+- Helm
+- Terraform
+- Observability
+
+My contributions will be documented through separate commits,
+configuration changes, experiments, and troubleshooting notes.
+
+The original project's license and attribution are preserved.
 ---
 ---
-                                        End
+                                        
 ---
 ---
