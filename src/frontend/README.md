@@ -1,5 +1,7 @@
-# frontend
+# Frontend Service
 
-Run the following command to restore dependencies to `vendor/` directory:
+This service is the frontend component of the microservices application.
 
-    dep ensure --vendor-only
+## Deployment
+
+The service is containerized with Docker and deployed through Kubernetes.
